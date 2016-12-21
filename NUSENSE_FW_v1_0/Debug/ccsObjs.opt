@@ -1,0 +1,1 @@
+"./CC2650DK_7ID.obj" "./ccfg.obj" "./main.obj" "../CC2650DK_7ID.cmd" -l"configPkg/linker.cmd" -l"C:/ti/tirtos_cc13xx_cc26xx_2_18_00_03/products/cc26xxware_2_23_03_17162/driverlib/bin/ccs/driverlib.lib" -llibc.a 
